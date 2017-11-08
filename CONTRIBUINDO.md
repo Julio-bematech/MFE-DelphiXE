@@ -69,7 +69,7 @@ Mais definido e esclarecido pelos responsáveis ​​pelo projeto.
 ### Execução
 
 Instâncias de comportamento abusivo, assediante ou de outra forma inaceitável podem ser
-Relatado entrando em contato com a equipe do projeto em [solucoes.fiscais@bematech.com.br]. Todos
+Relatado entrando em contato com a equipe do projeto em [suporte@bematech.com.br]. Todos
 As queixas serão revistas e investigadas e resultará em uma resposta que
 É considerado necessário e apropriado para as circunstâncias. A equipe do projeto é
 Obrigado a manter a confidencialidade em relação ao repórter de um incidente.
