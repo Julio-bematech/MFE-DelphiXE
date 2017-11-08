@@ -81,8 +81,8 @@ Membros da liderança do projeto.
 
 ### Atribuição
 
-Este Código de Conduta é adaptado do [Covenant Covenant] [homepage], versão 1.4,
-Disponível em [http://contributor-covenant.org/version/1/4][version]
+Este Código de Conduta é adaptado do Covenant, versão 1.4,
+Disponível em http://contributor-covenant.org/version/1/4
 
 [Página inicial]: http://contributor-covenant.org
 [Versão]: http://contributor-covenant.org/version/1/4/
