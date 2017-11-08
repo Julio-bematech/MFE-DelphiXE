@@ -13,7 +13,7 @@ seu aplicativo em produção após todos os testes.
 
 ## Contribuindo
 
-Leia [CONTRIBUINDO.md] para obter detalhes sobre o nosso código de conduta e o processo para enviar pedidos de tração.
+Leia [CONTRIBUINDO.md](/CONTRIBUINDO.md) para obter detalhes sobre o nosso código de conduta e o processo para enviar pedidos de tração.
 
 ## Versionamento
 
