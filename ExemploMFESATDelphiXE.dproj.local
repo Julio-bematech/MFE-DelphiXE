@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/03 13:51:35.000.458,=C:\Users\b1104279\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/03 14:03:37.000.862,C:\Users\b1104279\Documents\RAD Studio\Projects\Unit1.pas=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitExemploMFESATDelphiXE.pas</Transaction>
+    <Transaction>2017/10/03 14:03:37.000.862,C:\Users\b1104279\Documents\RAD Studio\Projects\Unit1.dfm=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitExemploMFESATDelphiXE.dfm</Transaction>
+    <Transaction>2017/10/03 14:03:45.000.100,C:\Users\b1104279\Documents\RAD Studio\Projects\Project1.dproj=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\ExemploMFESATDelphiXE.dproj</Transaction>
+    <Transaction>2017/10/03 14:49:44.000.884,=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit2.pas</Transaction>
+    <Transaction>2017/10/03 14:57:19.000.196,D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit2.dfm=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitAbreXML.dfm</Transaction>
+    <Transaction>2017/10/03 14:57:19.000.196,D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit2.pas=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitAbreXML.pas</Transaction>
+    <Transaction>2017/10/18 11:29:55.000.260,=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit1.pas</Transaction>
+    <Transaction>2017/10/18 13:18:36.000.729,D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit1.pas=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitConsultarStatusOperacional.pas</Transaction>
+    <Transaction>2017/10/18 13:18:36.000.729,D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit1.dfm=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitConsultarStatusOperacional.dfm</Transaction>
+    <Transaction>2017/10/24 18:40:32.999,=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit1.pas</Transaction>
+    <Transaction>2017/10/24 18:50:39.640,D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitDadoHomolog.dfm=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit1.dfm</Transaction>
+    <Transaction>2017/10/24 18:50:39.640,D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\UnitDadoHomolog.pas=D:\Teste MFE\Delphi XE\ExemploMFESATDelphiXE\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

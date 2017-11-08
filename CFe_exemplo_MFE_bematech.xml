@@ -1,0 +1,63 @@
+<CFe>
+	<infCFe versaoDadosEnt="0.07">
+		<ide>
+			<CNPJ>16716114000172</CNPJ>
+			<signAC>SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT</signAC>
+			<numeroCaixa>123</numeroCaixa>
+		</ide>
+		<emit>
+			<CNPJ>08723218000186</CNPJ>
+			<IE>562377111111</IE>
+			<IM>123123</IM>
+			<indRatISSQN>N</indRatISSQN>
+		</emit>
+		<dest/>
+		<det nItem="1">
+			<prod>
+				<cProd>1</cProd>
+				<cEAN>0012345678905</cEAN>
+				<xProd>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xProd>
+				<NCM>30043929</NCM>
+				<CFOP>5102</CFOP>
+				<uCom>UN</uCom>
+				<qCom>1.0000</qCom>
+				<vUnCom>4.40</vUnCom>
+				<indRegra>A</indRegra>
+			</prod>
+			<imposto>
+				<vItem12741>2.00</vItem12741>
+				<ICMS>
+					<ICMSSN102>
+						<Orig>0</Orig>
+						<CSOSN>102</CSOSN>
+					</ICMSSN102>
+				</ICMS>
+				<PIS>
+					<PISAliq>
+						<CST>01</CST>
+						<vBC>4.40</vBC>
+						<pPIS>0.0165</pPIS>
+					</PISAliq>
+				</PIS>
+				<COFINS>
+					<COFINSAliq>
+						<CST>01</CST>
+						<vBC>4.40</vBC>
+						<pCOFINS>0.0760</pCOFINS>
+					</COFINSAliq>
+				</COFINS>
+			</imposto>
+		</det>
+		<total>
+			<vCFeLei12741>2.00</vCFeLei12741>
+		</total>
+		<pgto>
+			<MP><cMP>01</cMP>
+				<vMP>4.40</vMP>
+			</MP>
+		</pgto>
+		<infAdic>
+			<infCpl>Não Aceitamos Devoluções sem este Comprovante</infCpl>
+		</infAdic>
+	</infCFe>
+</CFe>
