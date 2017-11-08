@@ -9,6 +9,7 @@ seu aplicativo em produção após todos os testes.
 ### Pré-requisitos
 
 * Integrador e Driver MFE --> http://cfe.sefaz.ce.gov.br/mfe/informacoes/downloads
+* MFE Bematech
 
 ## Contribuindo
 
@@ -24,7 +25,7 @@ Segundo o item 2 da Especificação de Versionamento Semântico:
 
 ## Autor
 
-> Julio Cesar Bruno
+> Julio Cesar Bruno - Bematech Software Partners
 
 ## Licença
 
